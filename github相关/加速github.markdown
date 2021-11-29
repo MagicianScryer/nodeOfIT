@@ -17,3 +17,7 @@
 - 在最后一行加上该 ip 地址 和 github.com 如图所示
 
 ![avatar](https://img-blog.csdnimg.cn/20190423101513969.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzUwMjQw,size_16,color_FFFFFF,t_70)
+
+- 保存后在 cmd 中重新 ping github.com 如果你看见你填写的 ip 地址给你发数据包了就成功了
+
+## 实测有效
